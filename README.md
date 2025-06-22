@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Aditya S</h1>
 <h3 align="center">Generative AI | AI/ML Developer | Open-Source Learner | Data Science</h3>
 
