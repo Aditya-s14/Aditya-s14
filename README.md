@@ -17,9 +17,9 @@ Currently exploring **LLMs, Deep Learning Applications**, and **Model Optimizati
 ---
 
 ### Projects
-
+- **EmotionBasedFeedbackSystem** – Real-time emotion detection and feedback system using webcam, designed as a mental health companion that analyzes facial expressions and provides supportive messages with **86.5% accuracy**.
 - **MedQueryRAG** – AI-based medical information retrieval system using RAG, LLaMA3, cosine similarity, and chatbot interface  
-- **TubeAnalytics** – YouTube trend analysis ML model with Decision Tree achieving 99.6% accuracy  
+- **TubeAnalytics** – YouTube trend analysis ML model with Decision Tree achieving **99.6% accuracy** 
 - **EduMetrics Explorer** – Predictive model using SVM to estimate academic performance from attendance and study patterns  
 - **Budget Tracker** – Web-based financial tracking tool with dynamic visualizations using Chart.js  
 - **Greenhouse Growth Prediction** – Logistic Regression-based model enhanced with SMOTE and GridSearchCV for precision farming
