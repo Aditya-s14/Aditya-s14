@@ -46,7 +46,7 @@ VS Code, Jupyter, Google Colab, MATLAB, Power BI, Git
 
 - Email: aditya10wasd@gmail.com  
 - LinkedIn: [aditya-s101](https://www.linkedin.com/in/aditya-s101/)  
-- All Projects: [github.com/Aditya-s14](https://github.com/Aditya-s14)
+- All Projects: [github.com/Aditya-s14](https://github.com/Aditya-s14?tab=repositories)
 
 ---
 
