@@ -31,16 +31,17 @@ available upon request)*
 ### Skills & Tools
 
 **Languages:**  
-Python, C, Java, HTML/CSS, JavaScript
+Python, C, Java, HTML/CSS, JavaScript, SQL
 
 **Libraries & Frameworks:**  
-Pandas, NumPy, Seaborn, Scikit-Learn, XGBoost, Matplotlib, Plotly, Chart.js
+Pandas, NumPy, Seaborn, Scikit-Learn, TensorFlow, Keras, XGBoost, Matplotlib, Plotly, Chart.js, Flask, OpenCV, Transformers
 
 **Machine Learning & AI:**  
-Neural Networks, Deep Learning, RAG, NLP, SVM, Decision Trees, Regression Models
+Neural Networks, Deep Learning, RAG (Retrieval-Augmented Generation), NLP, TF-IDF, Cosine Similarity, SVM, Decision Trees, Logistic Regression, GridSearchCV, SMOTE, Model Optimization, Model Evaluation
 
 **Tools & Platforms:**  
-VS Code, Jupyter, Google Colab, MATLAB, Power BI, Git
+VS Code, Jupyter, Google Colab, Git, GitHub, Streamlit, Power BI, MATLAB, Hugging Face, Google Search API
+
 
 ---
 
