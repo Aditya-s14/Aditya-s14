@@ -17,6 +17,8 @@ Currently exploring **LLMs, Deep Learning Applications**, and **Model Optimizati
 ---
 
 ### Projects
+- **MedSimNet** – Personalized medicine recommendation system using neural network embeddings and TF-IDF similarity. Combines deep learning   and vector search to suggest appropriate medicines based on user symptoms, composition, and usage metadata. *(Private repo – access
+available upon request)*
 - **EmotionBasedFeedbackSystem** – Real-time emotion detection and feedback system using webcam, designed as a mental health companion that analyzes facial expressions and provides supportive messages with **86.5% accuracy**.
 - **MedQueryRAG** – AI-based medical information retrieval system using RAG, LLaMA3, cosine similarity, and chatbot interface  
 - **TubeAnalytics** – YouTube trend analysis ML model with Decision Tree achieving **99.6% accuracy** 
