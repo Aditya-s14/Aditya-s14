@@ -42,6 +42,60 @@ Neural Networks, Deep Learning, RAG (Retrieval-Augmented Generation), NLP, TF-ID
 **Tools & Platforms:**  
 VS Code, Jupyter, Google Colab, Git, GitHub, Streamlit, Power BI, MATLAB, Hugging Face, Google Search API
 
+---
+
+
+### 🧠 Coding with
+
+#### 💻 Programming Languages
+<table>
+  <tbody>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+          <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        </a>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <a href="https://en.cppreference.com/w/c" target="_blank" rel="noopener noreferrer">
+          <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+        </a>
+        <br>C
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
+          <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+        </a>
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+          <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        </a>
+        <br>HTML
+      </td>
+      <td align="center" width="96">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+          <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+        </a>
+        <br>CSS
+      </td>
+      <td align="center" width="96">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+          <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+        </a>
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+          <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
+        </a>
+        <br>SQL
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -52,29 +106,6 @@ VS Code, Jupyter, Google Colab, Git, GitHub, Streamlit, Power BI, MATLAB, Huggin
 - All Projects: [github.com/Aditya-s14](https://github.com/Aditya-s14?tab=repositories)
 
 ---
-
-### Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/aditya-s101/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/adityas101" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/aditya_s101/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/aditya007_sh" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/adityaS101/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
-
----
-
 
 ### Achievements & Certifications
 
