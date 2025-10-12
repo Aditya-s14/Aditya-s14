@@ -8,7 +8,7 @@
 
 ---
 
-I am a B.Tech Computer Science student at **Dayananda Sagar University** (CGPA: 8.98)  
+I am a B.Tech Computer Science student at **Dayananda Sagar University** (CGPA: 9.01)  
 Focused on advancing practical skills in **AI, Machine Learning, Generative AI, and real-world applications**  
 Skilled in **Python, C, Pandas, Scikit-Learn, Power BI, Deep Learning**, and building intelligent systems  
 Actively building solutions using **RAG, NLP, Agentic AI, Predictive Modeling**, and **Statistical Analysis**  
